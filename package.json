@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Eve Porcello",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "console.json": "^0.2.1",
+    "minimist": "^1.2.0",
+    "node-fetch": "^1.7.3"
+  }
 }

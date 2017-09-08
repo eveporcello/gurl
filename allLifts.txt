@@ -1,0 +1,10 @@
+{
+  allLifts {
+    name
+    status
+    manufacturer
+    type
+    capacity
+    built
+  }
+}
